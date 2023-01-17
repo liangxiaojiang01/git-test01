@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hot-fix test");
         System.out.println("master push");
         System.out.println("master lxj02 commit");
+        System.out.println("master lxj02 commit");
     }
 }
